@@ -1,0 +1,15 @@
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\TwitterCurlCall.csproj.AssemblyReference.cache
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\TwitterCurlCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\TwitterCurlCall.AssemblyInfoInputs.cache
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\TwitterCurlCall.AssemblyInfo.cs
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\TwitterCurlCall.csproj.CoreCompileInputs.cache
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\bin\Debug\net6.0\TwitterCurlCall.exe
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\bin\Debug\net6.0\TwitterCurlCall.deps.json
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\bin\Debug\net6.0\TwitterCurlCall.runtimeconfig.json
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\bin\Debug\net6.0\TwitterCurlCall.dll
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\bin\Debug\net6.0\TwitterCurlCall.pdb
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\TwitterCurlCall.dll
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\refint\TwitterCurlCall.dll
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\TwitterCurlCall.pdb
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\TwitterCurlCall.genruntimeconfig.cache
+C:\Users\srini\source\repos\TWITTERAPI\TwitterCurlCall\obj\Debug\net6.0\ref\TwitterCurlCall.dll
